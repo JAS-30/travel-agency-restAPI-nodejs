@@ -16,7 +16,7 @@ This project will create REST API's for a travel agency and will use mysql to si
    - Open a new terminal and insert the following to access to your mysql:
     1) mysql -u root -p
     2) YOUR_PASSWORD
-   - Create a database from database.sql:
+   - Create the database from database.sql:
     3) SOURCE your/database.sql/path
 
 4. Fourth step:

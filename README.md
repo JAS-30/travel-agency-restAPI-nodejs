@@ -5,7 +5,7 @@ This project will create REST API's for a travel agency and will use mysql to si
 ## How to use:
 1. First step:
    - Install [node.js](https://nodejs.org/en/download)
-   - Install [mysql](https://dev.mysql.com/downloads/) and set account.
+   - Install [mysql](https://dev.mysql.com/downloads/) and set an account.
 
 2. Second step:
    -  Start a project in your developing environment (like [VisualStudioCode](https://code.visualstudio.com/download))

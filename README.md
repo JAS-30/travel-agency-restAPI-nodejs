@@ -9,7 +9,7 @@ This project will create REST API's for a travel agency and will use mysql to si
 
 2. Second step:
    -  Start a project in your developing environment (like [VisualStudioCode](https://code.visualstudio.com/download))
-   - Clone the repository in the project folder and insert in the terminal: "npm init -y" to create a package.json file and start your node.js project
+   - Clone the repository in the project folder and insert in the terminal (in project directory): "npm init -y" to create a package.json file and start your node.js project
    - Install dependencies: in the terminal insert "npm i express mysql nodemon"
 
 3. Third step:

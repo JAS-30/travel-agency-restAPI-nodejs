@@ -20,7 +20,7 @@ This project will create REST API's for a travel agency and will use mysql to si
     3) SOURCE your/database.sql/path
 
 4. Fourth step:
-   - In  the "db.js" file insert your personal mysql password
+   - In  the "server.js" file insert your personal mysql password in the mysql configuration.
    - You are now ready to test the API's !!!
    - For the testing part i recommend using [Postman](https://www.postman.com/downloads/)
 

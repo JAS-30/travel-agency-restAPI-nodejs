@@ -1,8 +1,10 @@
 import express from "express";
-const product_route = express.Router();
 import{
     changeProduct,deleteProduct, postProduct,getProductByID,getProducts
 }from '../controller/product.controller.js';
+
+const product_route = express.Router();
+
 
 product_route.get("/", getProducts);
 product_route.get("/:id",getProductByID);

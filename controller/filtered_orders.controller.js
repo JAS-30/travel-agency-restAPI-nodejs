@@ -12,7 +12,7 @@ function queryPromise(sql, values=[]){
         });
     });
 };
-//filter orders by id filtered_route.get('/filtered-orders',
+//filter orders by id 
 const filteredOrders= async(req,res)=>{
     try {
         const SQL ='SELECT * FROM orders ORDER by order_id ';

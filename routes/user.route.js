@@ -1,7 +1,9 @@
 
 import express from "express";
-const user_route = express.Router();
 import { getAllUsers,getUserByID,postUser,changeUser,deleteUser } from "../controller/user.controller.js";
+
+const user_route = express.Router();
+
 
 user_route.get("/", getAllUsers);
 user_route.get("/:id", getUserByID);
